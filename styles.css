@@ -1,0 +1,40 @@
+body {
+    color: rgb(0, 0, 0);
+    background: rgb(69, 142, 238);
+    margin: 0px;
+    }
+
+ header {
+        border-bottom: solid 2px rgb(15, 46, 85);
+        padding : 30px;
+        font-size  : 32px;
+        color : rgb(42, 122, 228);
+    }
+
+    section {
+        background: rgb(7, 4, 177);
+        padding-bottom: 60px;
+        padding-top: 80px;
+        display: flex;
+        justify-content: center;
+
+    }
+
+    section {
+      display: block;
+      unicode-bidi: isolate;
+  }
+
+  img {
+    height: 200px;
+  }
+  .categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+  }
+
+  section {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
